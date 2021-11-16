@@ -1,0 +1,65 @@
+Federal_fiscal_year,Type,"dollars_outstanding 
+(billions)","recipients 
+(millions)"
+2014,Stafford Subsidized,$256.07,28.3
+2015,Stafford Subsidized,$261.60,28.825
+2016,Stafford Subsidized,$267.48,29.225
+2017,Stafford Subsidized,$271.08,29.375
+2018,Stafford Subsidized,$275.08,29.45
+2019,Stafford Subsidized,$278.73,29.45
+2020,Stafford Subsidized,$282.63,29.425
+2021,Stafford Subsidized,$287.90,29.56666667
+,,,
+2014,Stafford Unsubsidized,$358.87,25.76666667
+2015,Stafford Unsubsidized,$389.28,26.65
+2016,Stafford Unsubsidized,$422.00,27.375
+2017,Stafford Unsubsidized,$449.70,27.95
+2018,Stafford Unsubsidized,$476.83,28.35
+2019,Stafford Unsubsidized,$503.65,28.675
+2020,Stafford Unsubsidized,$528.43,28.875
+2021,Stafford Unsubsidized,$548.53,29.33333333
+,,,
+2014,Stafford combined,$614.97,30.86666667
+2015,Stafford combined,$650.88,31.65
+2016,Stafford combined,$689.50,32.2
+2017,Stafford combined,$720.80,32.625
+2018,Stafford combined,$751.93,32.875
+2019,Stafford combined,$782.38,33.05
+2020,Stafford combined,$811.03,33.1
+2021,Stafford combined,$836.43,33.53333333
+,,,
+2014,Grad PLUS,$39.20,0.9333333333
+2015,Grad PLUS,$43.80,1
+2016,Grad PLUS,$49.80,1.025
+2017,Grad PLUS,$56.20,1.125
+2018,Grad PLUS,$63.33,1.225
+2019,Grad PLUS,$72.28,1.375
+2020,Grad PLUS,$79.10,1.425
+2021,Grad PLUS,$85.43,1.5
+,,,
+2014,Parent PLUS,$63.07,3.133333333
+2015,Parent PLUS,$68.23,3.2
+2016,Parent PLUS,$74.65,3.375
+2017,Parent PLUS,$80.85,3.45
+2018,Parent PLUS,$87.00,3.5
+2019,Parent PLUS,$93.18,3.55
+2020,Parent PLUS,$98.53,3.55
+2021,Parent PLUS,$102.23,3.6
+,,,
+2014,Perkins,$8.23,2.933333333
+2015,Perkins,$8.20,2.9
+2016,Perkins,$8.05,2.775
+2017,Perkins,$7.80,2.6
+2018,Perkins,$7.43,2.425
+2019,Perkins,$6.48,2.125
+2020,Perkins,$5.53,1.825
+2021,Perkins,$4.63,1.633333333
+,,,
+2014,Consolidation,$379.40,11.8
+2015,Consolidation,$406.18,11.9
+2016,Consolidation,$435.33,12
+2017,Consolidation,$468.33,12
+2018,Consolidation,$498.70,11.925
+2019,Consolidation,$525.48,11.775
+2020,Consolidation,$548.10,11.6
+2021,Consolidation,$553.93,11.4
