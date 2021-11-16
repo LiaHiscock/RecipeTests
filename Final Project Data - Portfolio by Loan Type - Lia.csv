@@ -1,6 +1,4 @@
-Federal_fiscal_year,Type,"dollars_outstanding 
-(billions)","recipients 
-(millions)"
+Federal_fiscal_year,Type,"dollars_outstanding_billions","recipients_millions"
 2014,Stafford Subsidized,$256.07,28.3
 2015,Stafford Subsidized,$261.60,28.825
 2016,Stafford Subsidized,$267.48,29.225
